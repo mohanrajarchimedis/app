@@ -21,7 +21,7 @@ ResultSet resultSet = null;
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><<<<<<< HEAD
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Login to GetYour Details</title>
 <style>
     body {
