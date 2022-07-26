@@ -72,7 +72,7 @@ public class UserLogin extends HttpServlet {
             e.printStackTrace();
         }
         if (temp == 0) {
-            request.setAttribute("error", "Username not available, Create a new user");
+            request.setAttribute("error", "Username not available, Create a new user account");
             request.getRequestDispatcher("WEB-INF/Views/login.jsp").forward(request, response);
         }
     }
