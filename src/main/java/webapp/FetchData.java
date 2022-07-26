@@ -40,7 +40,7 @@ public class FetchData extends HttpServlet {
 
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Fetch Data Result</title>");
+            out.println("<title>Fetch Data Results</title>");
             out.println("</head>");
             out.println("<body>");
             out.println("<table border=1 width=100% height=100%>");
